@@ -20,5 +20,8 @@
     "eslint-plugin-promise": "^3.6.0",
     "eslint-plugin-standard": "^3.0.1",
     "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "md5": "^2.2.1"
   }
 }
