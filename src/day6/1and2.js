@@ -17,4 +17,4 @@ for (const row of day6.input) {
   message2 += sorted[sorted.length - 1]
 }
 
-console.log(`Part 1: ${message1}, ${message2}`)
+console.log(`Part 1: ${message1}, Part 2: ${message2}`)
